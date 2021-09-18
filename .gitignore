@@ -14,3 +14,5 @@ huobi/privateconfig.py
 
 ### Other ###
 .DS_Store
+credentials/api.json
+config.py
